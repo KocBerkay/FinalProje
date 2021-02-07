@@ -1,0 +1,14 @@
+C:\Users\brky2\source\repos\Projem\Projem\bin\Debug\Projem.exe.config
+C:\Users\brky2\source\repos\Projem\Projem\bin\Debug\Projem.exe
+C:\Users\brky2\source\repos\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.csprojAssemblyReference.cache
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.Form1.resources
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.Properties.Resources.resources
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.csproj.GenerateResource.cache
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.csproj.CoreCompileInputs.cache
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.exe
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.pdb
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.Form2.resources
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.Form3.resources
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.Form4.resources
+C:\Users\brky2\source\repos\Projem\Projem\obj\Debug\Projem.Form5.resources
